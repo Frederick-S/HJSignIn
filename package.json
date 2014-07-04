@@ -1,8 +1,11 @@
 {
-  "name": "HJSignIn",
-  "version": "0.0.1",
+  "name": "hjsignin",
+  "version": "0.0.3",
   "description": "沪江打卡",
   "main": "index.js",
+  "bin": {
+    "hjsignin": "./bin/signin"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Frederick-S/HJSignIn.git"
