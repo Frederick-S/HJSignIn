@@ -15,3 +15,4 @@ $ [sudo] npm install hjsignin -g
     }
     ```
 2. Run `[sudo] hjsignin in terminal.`
+![Demo](https://raw.github.com/Frederick-S/HJSignIn/master/screenshot.png)
