@@ -1,6 +1,6 @@
 {
   "name": "hjsignin",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "沪江打卡",
   "main": "index.js",
   "bin": {
