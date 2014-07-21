@@ -1,0 +1,11 @@
+{
+    "curly": true,
+    "camelcase": true,
+    "immed": true,
+    "newcap": true,
+    "undef": true,
+    "unused": "vars",
+    "strict": true,
+    "node": true,
+    "quotmark": true
+}
