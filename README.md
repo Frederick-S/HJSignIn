@@ -1,4 +1,4 @@
-# 沪江打卡
+﻿# 沪江打卡
 ## Installation
 ```
 $ [sudo] npm install hjsignin -g
@@ -8,10 +8,8 @@ $ [sudo] npm install hjsignin -g
 
     ```
     {
-        "Account": "Your HuJiang user name",
-        "Password": "Your password, encrypted by MD5",
-        "process_cookie": 0,
-        "type": 2
+        "account": "Your HuJiang user name",
+        "password": "Your password, encrypted by MD5"
     }
     ```
 2. Run `[sudo] hjsignin` in terminal.
