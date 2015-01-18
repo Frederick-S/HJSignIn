@@ -1,6 +1,4 @@
 {
-    "Account": "",
-    "Password": "",
-    "process_cookie": 0,
-    "type": 2
+    "account": "Your HuJiang user name",
+    "password": "Your password, encrypted by MD5"
 }
