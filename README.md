@@ -1,5 +1,7 @@
 ﻿# 沪江打卡
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/HJSignIn.svg)](https://greenkeeper.io/)
 ```
 $ [sudo] npm install hjsignin -g
 ```
